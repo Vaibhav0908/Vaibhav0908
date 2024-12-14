@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, HTML, CSS, JavaScript, Bootstrap, jQuery, MySQL, NumPy, Pandas, tkinter**
 
-- 📫 How to reach me **vaibhavsamarth0908@gmail.com**
+- 📫 How to reach me **vaibhavsamarth39@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
